@@ -63,6 +63,11 @@
 ![image](https://user-images.githubusercontent.com/89781598/193582745-a979e1fc-5999-4c73-849c-99ad4bc66d39.png)
 ![image](https://user-images.githubusercontent.com/89781598/193581406-82aeac14-9178-4657-b06f-8597c38e4efe.png)
 
+```
+뉴스기사
+```
+- 뉴시스 : https://n.news.naver.com/mnews/article/003/0011248040?sid=105 <br>
+- 이데일리 : https://n.news.naver.com/mnews/article/018/0005242080?sid=105
 
 ## 참고사항
 - 데이터의 경우 대회 종료 후 파기가 원칙이므로 제공되지 않습니다.

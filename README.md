@@ -23,25 +23,6 @@
   <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp
 </p>
 
-## 프로젝트 결과
-```
-우수상 수상
-```
-
-![image](https://user-images.githubusercontent.com/89781598/193581270-79af4eb2-8ba2-49ed-a84c-2ea57ebd22a4.png)
-![image](https://user-images.githubusercontent.com/89781598/193581326-8035eb0e-8461-4126-ab44-c6724958c15d.png)
-
-```
-시상식
-```
-
-![image](https://user-images.githubusercontent.com/89781598/193582696-fd846446-1144-4ea0-b2b6-c577ae0324e8.png)
-![image](https://user-images.githubusercontent.com/89781598/193582721-488b4645-60b9-4da1-bb86-aebb865b6e6d.png)
-![image](https://user-images.githubusercontent.com/89781598/193582745-a979e1fc-5999-4c73-849c-99ad4bc66d39.png)
-![image](https://user-images.githubusercontent.com/89781598/193581406-82aeac14-9178-4657-b06f-8597c38e4efe.png)
-
-
-
 ## 파일 구조
 ```
 📦Code
@@ -62,6 +43,24 @@
     - Media_이상탐지모델.h5 : tensorflow로 개발한 실시간 OTT 서비스 이용자 수 추이 기반 이상 발생 시점 탐지모델을 h5파일로 저장하였습니다.
     - Media_전처리모델.h5 : 1차적으로 정상인 값만 filtering 해주는 LSTM AutoEncoder 모델을 h5파일로 저장하였습니다.
     - Media_코드.ipynb : tensorflow로 모델을 개발한 코드입니다.
+
+## 프로젝트 결과
+```
+우수상 수상
+```
+
+![image](https://user-images.githubusercontent.com/89781598/193581270-79af4eb2-8ba2-49ed-a84c-2ea57ebd22a4.png)
+![image](https://user-images.githubusercontent.com/89781598/193581326-8035eb0e-8461-4126-ab44-c6724958c15d.png)
+
+```
+시상식
+```
+
+![image](https://user-images.githubusercontent.com/89781598/193582696-fd846446-1144-4ea0-b2b6-c577ae0324e8.png)
+![image](https://user-images.githubusercontent.com/89781598/193582721-488b4645-60b9-4da1-bb86-aebb865b6e6d.png)
+![image](https://user-images.githubusercontent.com/89781598/193582745-a979e1fc-5999-4c73-849c-99ad4bc66d39.png)
+![image](https://user-images.githubusercontent.com/89781598/193581406-82aeac14-9178-4657-b06f-8597c38e4efe.png)
+
 
 ## 참고사항
 - 데이터의 경우 대회 종료 후 파기가 원칙이므로 제공되지 않습니다.
